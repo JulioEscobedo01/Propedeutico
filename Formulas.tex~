@@ -1,9 +1,0 @@
-\documentclass {article}
-\usepackage {amsmath,amssymb,amsfonts,latexsym,cancel}
-\usepackage [spanish]{babel}
-\usepackage [utf8]{inputenc}
-\usepackage {anyfontsize}
-\begin {document}
-Este es {\fontsize{80}{0}\selectfront LaTeX}
-$ \x= {-b+\sqrt{b^2-4ac} \over 2a $
-\end {document}
